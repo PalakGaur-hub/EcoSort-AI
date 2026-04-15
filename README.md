@@ -24,6 +24,11 @@ An AI-powered waste segregation system that classifies images into biodegradable
 4. If uncertain, user input is requested
 5. Final classification is displayed
 
+## Model
+
+The trained model (`waste_model.h5`) is included in this repository and is used for image classification.
+
+
 ## Applications
 
 * Smart waste management

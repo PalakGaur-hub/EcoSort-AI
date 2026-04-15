@@ -32,4 +32,4 @@ An AI-powered waste segregation system that classifies images into biodegradable
 
 ## Author
 
-(Your Name)
+Palak Gaur

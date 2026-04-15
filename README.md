@@ -26,7 +26,15 @@ An AI-powered waste segregation system that classifies images into biodegradable
 
 ## Model
 
-The trained model (`waste_model.h5`) is included in this repository and is used for image classification.
+The trained model file (`waste_model.h5`) is not included in this repository due to GitHub file size limitations.
+
+To generate the model:
+
+1. Open the `.ipynb` notebook
+2. Run all cells to train the model
+3. The trained model will be saved automatically
+
+The notebook contains the complete training and prediction pipeline.
 
 
 ## Applications
